@@ -48,9 +48,9 @@ linkedin_username: vibhu-verma-017
 # about_title: About Me
 about_profile_image: images/dp.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, I'm Vibhu, a data scientist specializing in predictive modeling, XAI, and advanced AI/ML techniques to tackle complex business challenges. I have experience leveraging generative AI, anomaly detection, and network analysis to enhance decision-making, risk management, and operational efficiency. I'm skilled in deploying AI systems that drive automation, foster product innovation, and ensure fairness.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I am most skilled in: <mark>AI/ML</mark>, <mark>XAI</mark> and <mark>Gen AI</mark>
 
 content:
   - title: Projects # Title for the section
