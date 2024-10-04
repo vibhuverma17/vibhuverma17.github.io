@@ -57,20 +57,13 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Projects
+        title: MSBA Practicum - GWU
         link: github.com/vibhuverma17
         # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          During a Deloitte MSBA practicum, I worked as a data scientist in Washington, DC, from September to December 2020. I harmonized data from various sources, employed text mining and sentiment analysis to enhance data quality, and utilized machine learning techniques (XGBoost and logistic regression) to analyze factors influencing USAID's strategic resource allocation. I visualized the results in interactive Tableau dashboards, identifying patterns in regional and country-level investments to classify projects and assess their prosperity across 50+ countries.
+          
+          
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
