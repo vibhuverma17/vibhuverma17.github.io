@@ -52,16 +52,16 @@ about_content: | # this will include new lines to allow paragraphs
 
   I am most skilled in: <mark>AI/ML</mark>, <mark>XAI</mark> and <mark>Gen AI</mark>
 
-# content:
-#   - title: Projects # Title for the section
-#     layout: list # Type of content section (list/text)
-#     content:
-#       - layout: top-middle
-#         title: MSBA Practicum - GWU
-#         link: github.com/vibhuverma17
-#         # link_text: Project Website
-#         description: | # this will include new lines to allow paragraphs
-#           During a Deloitte MSBA practicum, I worked as a data scientist in Washington, DC, from September to December 2020. I harmonized data from various sources, employed text mining and sentiment analysis to enhance data quality, and utilized machine learning techniques (XGBoost and logistic regression) to analyze factors influencing USAID's strategic resource allocation. I visualized the results in interactive Tableau dashboards, identifying patterns in regional and country-level investments to classify projects and assess their prosperity across 50+ countries.
+content:
+  - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: MSBA Practicum - GWU
+        link: github.com/vibhuverma17
+        # link_text: Project Website
+        description: | # this will include new lines to allow paragraphs
+          During a Deloitte MSBA practicum, I worked as a data scientist in Washington, DC, from September to December 2020. I harmonized data from various sources, employed text mining and sentiment analysis to enhance data quality, and utilized machine learning techniques (XGBoost and logistic regression) to analyze factors influencing USAID's strategic resource allocation. I visualized the results in interactive Tableau dashboards, identifying patterns in regional and country-level investments to classify projects and assess their prosperity across 50+ countries.
 
 
   
