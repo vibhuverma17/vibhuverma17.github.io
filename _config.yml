@@ -57,8 +57,8 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
+        title: Projects
+        link: github.com/vibhuverma17
         # link_text: Project Website
         additional_links:
           - title:  sproogen/modern-resume-theme
@@ -76,16 +76,27 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
-        # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
+        title: Capital One
+        link: capitalone.com
+        # link_text: capitalone.com
+        sub_title: Principal Data Scientist
+        caption: Jan 2022 - Present
         quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+          Solving 21st-century challenges by analyzing data and crafting groundbreaking innovations—like turning coffee into code and making spreadsheets as exciting as a rollercoaster ride!
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
-
+            As a data-driven professional, I specialize in leveraging advanced analytical techniques to derive actionable insights from complex datasets. I have successfully implemented network analysis methodologies allowing for a deeper understanding of network dynamics. My experience includes designing and executing benchmarking algorithms using XGBoost, which effectively identify and address outlier subgroups. I also work with generative AI techniques for summarization, enhancing the ability to distill complex information into concise, actionable insights. My focus on employing innovative techniques has enabled organizations to enhance their decision-making processes and achieve strategic goals.
+            
+      - layout: left
+        title: Kantar Consulting
+        link: https://www.kantar.com/north-america
+        # link_text: https://www.kantar.com/north-america
+        sub_title: Data Analyst and Consultant
+        caption: Jan 2021 - Jan 2022
+        quote: >
+          Turning retail chaos into profit gains like a magician pulling rabbits out of hats—except my tricks involve regression models, SQL sorcery, and automated segmentation! Who knew fetching data from FTP servers could feel like treasure hunting, and creating Power BI dashboards would make me the Picasso of profits?
+        description: | # this will include new lines to allow paragraphs
+             successfully improved revenue and profitability through the development of transferrable demand curves using ML models. This innovative approach allowed me to model the sales transfer between products within a retailer's assortment mix and suggest the optimal shelf configuration tailored to client needs. Additionally, I built robust ETL pipelines to efficiently fetch data from FTP servers and scripted various stored procedures in SQL to harmonize data for modeling baselines with time series techniques. This groundwork facilitated better planning for future promotions and accurate sales growth projections. Furthermore, I automated the private label segmentation process by utilizing customer decision trees through text mining and AutoML, enabling us to map various products to their financial data seamlessly. To further enhance our deliverables, I created interactive Power BI dashboards for clients, providing them with insightful visualizations that strengthen their decision-making capabilities.
+            
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
