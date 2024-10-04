@@ -52,18 +52,20 @@ about_content: | # this will include new lines to allow paragraphs
 
   I am most skilled in: <mark>AI/ML</mark>, <mark>XAI</mark> and <mark>Gen AI</mark>
 
-content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: MSBA Practicum - GWU
-        link: github.com/vibhuverma17
-        # link_text: Project Website
-        description: | # this will include new lines to allow paragraphs
-          During a Deloitte MSBA practicum, I worked as a data scientist in Washington, DC, from September to December 2020. I harmonized data from various sources, employed text mining and sentiment analysis to enhance data quality, and utilized machine learning techniques (XGBoost and logistic regression) to analyze factors influencing USAID's strategic resource allocation. I visualized the results in interactive Tableau dashboards, identifying patterns in regional and country-level investments to classify projects and assess their prosperity across 50+ countries.
-          
-          
+# content:
+#   - title: Projects # Title for the section
+#     layout: list # Type of content section (list/text)
+#     content:
+#       - layout: top-middle
+#         title: MSBA Practicum - GWU
+#         link: github.com/vibhuverma17
+#         # link_text: Project Website
+#         description: | # this will include new lines to allow paragraphs
+#           During a Deloitte MSBA practicum, I worked as a data scientist in Washington, DC, from September to December 2020. I harmonized data from various sources, employed text mining and sentiment analysis to enhance data quality, and utilized machine learning techniques (XGBoost and logistic regression) to analyze factors influencing USAID's strategic resource allocation. I visualized the results in interactive Tableau dashboards, identifying patterns in regional and country-level investments to classify projects and assess their prosperity across 50+ countries.
+
+
+  
+
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -78,6 +80,8 @@ content:
           Solving 21st-century challenges by analyzing data and crafting groundbreaking innovations—like turning coffee into code and making spreadsheets as exciting as a rollercoaster ride!
         description: | # this will include new lines to allow paragraphs
             As a data-driven professional, I specialize in leveraging advanced analytical techniques to derive actionable insights from complex datasets. I have successfully implemented network analysis methodologies allowing for a deeper understanding of network dynamics. My experience includes designing and executing benchmarking algorithms using XGBoost, which effectively identify and address outlier subgroups. I also work with generative AI techniques for summarization, enhancing the ability to distill complex information into concise, actionable insights. My focus on employing innovative techniques has enabled organizations to enhance their decision-making processes and achieve strategic goals.
+
+            
             
       - layout: left
         title: Kantar Consulting
